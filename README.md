@@ -19,7 +19,7 @@ To implement this code to a location of your choice
 
 1. Clone this repository 
 ```bash
-git clone https://github.com/vidhanbhonsle/Visual-Recognition-with-IBM-HERE-and-Python
+git clone https://github.com/vidhanbhonsle/Image-Recognition-use-case-IBM-and-HERE--APAC 
 ```
 2. Add your IBM Cloud Visual Recogntion API Key and Here Maps API Key in ```test.py```
 
