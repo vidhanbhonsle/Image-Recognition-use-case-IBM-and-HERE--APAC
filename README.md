@@ -47,13 +47,13 @@ latitude = 12.959111
 longitude = 77.732022
 ```
 
-6. You can now run the application by running ```flask run``` in the terminal.
+6. You can now run the application.
 
 
-7. ***OPTIONAL*** If you would like to assess another food item just add it to the project folder and in the ```test.py``` file replace the filename ```pizza.jpg``` with the filename of your picture.
+7. ***OPTIONAL*** If you would like to assess another food item just add it to the project folder and in the ```test.ipynb``` file replace the filename ```test.jpg``` with the filename of your picture.
 
 ```python
-with open('./pizza.jpg', 'rb') as images_file:
+with open('./test.jpg', 'rb') as images_file:
 ```
 
-Save the file and re-run ```flask run``` to see the changes.
+Save the file and re-run the application.
